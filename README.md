@@ -1,1 +1,1 @@
-# dev-library
+# The Developer's library
